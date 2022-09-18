@@ -50,4 +50,8 @@
 - Single Codebase: no need to seperate languages and technologies for each of multiple platforms
 - Cost Effectiveness: single codebase is much less expensive and less work
 - Web Technologies: shorten the learning curve and the need to hire other experts
-- Desktop / Web Hybrid: easily create apps with both desktop and web app version (examples: Discord, Whatsapp, Slack, Visual Studio Code, Skype, WordPress, MailSpring)  
+- Desktop / Web Hybrid: easily create apps with both desktop and web app version (examples: Discord, Whatsapp, Slack, Visual Studio Code, Skype, WordPress, MailSpring)
+
+## How Electron Works
+
+![image](https://user-images.githubusercontent.com/29084790/190925818-bef33448-615a-413a-bf5f-3cae2ad1b3a3.png)
