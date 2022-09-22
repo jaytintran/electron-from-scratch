@@ -1,0 +1,16 @@
+{
+  "name": "img-shrinker",
+  "version": "1.0.0",
+  "description": "desktop app to optimize image, using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "Tin Tran",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.1.4",
+    "nodemon": "^2.0.20"
+  }
+}

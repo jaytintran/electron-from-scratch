@@ -55,3 +55,5 @@
 ## How Electron Works
 
 ![image](https://user-images.githubusercontent.com/29084790/190925818-bef33448-615a-413a-bf5f-3cae2ad1b3a3.png)
+
+- IPC: Interprocess Communication
